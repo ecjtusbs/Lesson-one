@@ -4,13 +4,13 @@ import javax.swing.table.DefaultTableModel;
 
 /**
 *@author ckw
-*@version time£º2017Äê7ÔÂ14ÈÕ ÏÂÎç6:33:27
+*@version timeï¼š2017å¹´7æœˆ14æ—¥ ä¸‹åˆ6:33:27
 */
 
 public class TableModel extends DefaultTableModel
 {
 
-	// ½ûÖ¹±ê¼Ç±í¸ñ
+	// ç¦æ­¢ç¼–è¾‘è¡¨æ ¼
 	@Override
 	public boolean isCellEditable(int row, int column)
 	{
